@@ -1,4 +1,4 @@
-@Echo = 0
+@Echo off
 docker stop selenoid_1
 docker stop selenoid_2
 docker rm selenoid_1
